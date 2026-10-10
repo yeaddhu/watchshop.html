@@ -1,0 +1,37 @@
+h1{
+           
+            color: rgba(255, 81, 96, 0.546);
+            text-align: center;
+           
+            font-size: 50px;
+        }
+
+        .para{
+
+            
+            text-align: center;
+            font: size 30px; ;
+            border: 3px solid black;
+            padding: 20px;
+            margin: 50px;
+
+           
+        }
+       
+
+        
+        
+        
+        img{
+            width: 300px;
+            height: 300px;
+        }
+        div{
+            text-align: center;
+        }
+    body{
+        text-align: center;
+        background-color: rgb(207, 40, 40);
+        color: white;
+    }
+    

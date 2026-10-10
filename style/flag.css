@@ -1,0 +1,12 @@
+demo{
+    width: 300px;
+    background-color: red;
+    height: 200px;
+    opacity: 0,3;
+}
+base{
+
+    width: 300px;
+    background-color: blue;
+    height: 200px;
+}
